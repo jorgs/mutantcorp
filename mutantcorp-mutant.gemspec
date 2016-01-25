@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'stores mutant data'
   spec.description   = 'description'
-  spec.homepage      = 'no homepage'
+  spec.homepage      = 'https://github.com/jorgs/mutantcorp'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.

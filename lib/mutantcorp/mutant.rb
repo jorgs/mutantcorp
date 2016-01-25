@@ -1,7 +1,8 @@
 require "mutantcorp/mutant/version"
+require 'mutantcorp/mutant/mutant'
 
 module Mutantcorp
   module Mutant
-    # Your code goes here...
+
   end
 end
